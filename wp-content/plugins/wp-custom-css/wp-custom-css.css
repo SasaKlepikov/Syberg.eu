@@ -1,0 +1,12 @@
+#lang_sel_click {
+  float: right;
+  display: block; }
+  #lang_sel_click ul {
+    width: 110px; }
+    #lang_sel_click ul li {
+      width: 110px; }
+      #lang_sel_click ul li img {
+        display: inline-block;
+        margin-right: 5px; }
+
+/*# sourceMappingURL=wp-custom-css.css.map */

@@ -1,0 +1,14 @@
+#lang_sel_click {
+    float: right;
+    display: block;
+    ul {
+        width: 110px;
+        li {
+            width: 110px;
+            img {
+                display: inline-block;
+                margin-right: 5px;
+            }
+        }
+    }
+}
