@@ -1,5 +1,5 @@
 #lang_sel_click {
-  float: right;
+  clear: both;
   display: block; }
   #lang_sel_click ul {
     width: 110px; }
@@ -8,5 +8,12 @@
       #lang_sel_click ul li img {
         display: inline-block;
         margin-right: 5px; }
+      #lang_sel_click ul li ul {
+        width: 110px; }
+
+.home.blog .site-header,
+.home.page:not(.page-template-template-homepage) .site-header,
+.home.post-type-archive-product .site-header {
+  margin-bottom: 0; }
 
 /*# sourceMappingURL=wp-custom-css.css.map */

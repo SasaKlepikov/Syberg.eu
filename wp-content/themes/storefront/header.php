@@ -36,7 +36,6 @@
 			 * @hooked storefront_header_cart - 60
 			 */
 			do_action( 'storefront_header' );
-      do_action('icl_language_selector');
       ?>
 
 		</div>
