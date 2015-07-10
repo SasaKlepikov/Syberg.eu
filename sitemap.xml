@@ -1,129 +1,87 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="http://w1.local:8080/cs/wp-content/plugins/google-sitemap-plugin/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="http://www.syberg.eu/wp-content/plugins/google-sitemap-plugin/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://w1.local:8080/cart/</loc>
-    <lastmod>2015-07-04T20:51:37+00:00</lastmod>
+    <loc>http://www.syberg.eu/cart/</loc>
+    <lastmod>2015-07-08T23:05:46+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://w1.local:8080/checkout/</loc>
-    <lastmod>2015-07-04T20:51:37+00:00</lastmod>
+    <loc>http://www.syberg.eu/checkout/</loc>
+    <lastmod>2015-07-08T22:35:52+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://w1.local:8080/my-account/</loc>
-    <lastmod>2015-07-04T20:51:37+00:00</lastmod>
+    <loc>http://www.syberg.eu/my-account/</loc>
+    <lastmod>2015-07-08T22:35:52+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://w1.local:8080/product-categories/</loc>
-    <lastmod>2015-07-05T03:05:56+00:00</lastmod>
+    <loc>http://www.syberg.eu/</loc>
+    <lastmod>2015-07-08T22:47:22+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://w1.local:8080/terms-conditions/</loc>
-    <lastmod>2015-07-04T21:24:39+00:00</lastmod>
+    <loc>http://www.syberg.eu/terms-conditions/</loc>
+    <lastmod>2015-07-08T22:47:38+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://w1.local:8080/ru/%d0%ba%d0%be%d1%80%d0%b7%d0%b8%d0%bd%d0%b0/</loc>
-    <lastmod>2015-07-04T21:24:53+00:00</lastmod>
+    <loc>http://www.syberg.eu/about-us/</loc>
+    <lastmod>2015-07-08T22:47:51+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://w1.local:8080/ru/%d0%be%d1%84%d0%be%d1%80%d0%bc%d0%b8%d1%82%d1%8c-%d0%b7%d0%b0%d0%ba%d0%b0%d0%b7/</loc>
-    <lastmod>2015-07-04T21:24:53+00:00</lastmod>
+    <loc>http://www.syberg.eu/contacts/</loc>
+    <lastmod>2015-07-08T22:48:01+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://w1.local:8080/ru/%d0%bc%d0%be%d1%8f-%d1%83%d1%87%d0%b5%d1%82%d0%bd%d0%b0%d1%8f-%d0%b7%d0%b0%d0%bf%d0%b8%d1%81%d1%8c/</loc>
-    <lastmod>2015-07-04T21:24:53+00:00</lastmod>
+    <loc>http://www.syberg.eu/cs/o-nas/</loc>
+    <lastmod>2015-07-08T23:01:34+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://w1.local:8080/cs/kosik/</loc>
-    <lastmod>2015-07-05T01:03:30+00:00</lastmod>
+    <loc>http://www.syberg.eu/cs/vseobecne-obchodni-podminky/</loc>
+    <lastmod>2015-07-08T23:02:10+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://w1.local:8080/cs/pokladna/</loc>
-    <lastmod>2015-07-05T01:04:02+00:00</lastmod>
+    <loc>http://www.syberg.eu/cs/kontakty/</loc>
+    <lastmod>2015-07-08T23:02:31+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://w1.local:8080/cs/muj-ucet/</loc>
-    <lastmod>2015-07-05T01:04:21+00:00</lastmod>
+    <loc>http://www.syberg.eu/cs/pokladna/</loc>
+    <lastmod>2015-07-08T23:06:45+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://w1.local:8080/ru/%d0%ba%d0%b0%d1%82%d0%b5%d0%b3%d0%be%d1%80%d0%b8%d0%b8-%d0%bf%d1%80%d0%be%d0%b4%d1%83%d0%ba%d1%82%d0%be%d0%b2/</loc>
-    <lastmod>2015-07-04T23:46:44+00:00</lastmod>
+    <loc>http://www.syberg.eu/cs/kosik/</loc>
+    <lastmod>2015-07-08T23:06:04+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://w1.local:8080/cs/</loc>
-    <lastmod>2015-07-05T03:06:20+00:00</lastmod>
+    <loc>http://www.syberg.eu/cs/my-account/</loc>
+    <lastmod>2015-07-08T23:07:26+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://w1.local:8080/ru/%d0%be%d0%b1%d1%89%d0%b8%d0%b5-%d0%ba%d0%be%d0%bc%d0%bc%d0%b5%d1%80%d1%87%d0%b5%d1%81%d0%ba%d0%b8%d0%b5-%d1%83%d1%81%d0%bb%d0%be%d0%b2%d0%b8%d1%8f/</loc>
-    <lastmod>2015-07-04T21:27:35+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>http://w1.local:8080/cs/vseobecne-podminky/</loc>
-    <lastmod>2015-07-04T21:27:17+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>http://w1.local:8080/contacts/</loc>
-    <lastmod>2015-07-04T23:43:01+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>http://w1.local:8080/cs/kontakty/</loc>
-    <lastmod>2015-07-04T23:43:11+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>http://w1.local:8080/ru/%d0%ba%d0%be%d0%bd%d1%82%d0%b0%d0%ba%d1%82%d1%8b/</loc>
-    <lastmod>2015-07-04T23:43:22+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>http://w1.local:8080/about-us/</loc>
-    <lastmod>2015-07-04T23:43:52+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>http://w1.local:8080/ru/%d0%be-%d0%ba%d0%be%d0%bc%d0%bf%d0%b0%d0%bd%d0%b8%d0%b8/</loc>
-    <lastmod>2015-07-04T23:44:07+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>http://w1.local:8080/cs/o-nas/</loc>
-    <lastmod>2015-07-04T23:44:18+00:00</lastmod>
+    <loc>http://www.syberg.eu/cs/kategorie-produktu/</loc>
+    <lastmod>2015-07-08T23:08:04+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
