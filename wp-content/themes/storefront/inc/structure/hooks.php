@@ -28,7 +28,7 @@ add_action( 'storefront_sidebar',			'storefront_get_sidebar',			10 );
  */
 add_action( 'storefront_header', 'storefront_skip_links', 				0 );
 add_action( 'storefront_header', 'storefront_site_branding',			20 );
-add_action( 'storefront_header', 'storefront_secondary_navigation',		30 );
+//add_action( 'storefront_header', 'storefront_secondary_navigation',		30 );
 add_action( 'storefront_header', 'storefront_primary_navigation',		50 );
 
 /**
